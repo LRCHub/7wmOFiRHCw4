@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Shadow gate to love",
+  "base_artist": "Guilty Kiss",
+  "createdAt": "2026-01-02T16:08:10.159329Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shadow gate to love",
+      "artist": "Guilty Kiss",
+      "has_synced": true,
+      "path": "select/01_Shadow_gate_to_love_Guilty_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shadow gate to love",
+      "artist": "Guilty Kiss",
+      "has_synced": true,
+      "path": "select/02_Shadow_gate_to_love_Guilty_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shadow gate to love",
+      "artist": "Guilty Kiss",
+      "has_synced": true,
+      "path": "select/03_Shadow_gate_to_love_Guilty_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shadow gate to love (Off Vocal)",
+      "artist": "Guilty Kiss",
+      "has_synced": true,
+      "path": "select/04_Shadow_gate_to_love_(Off_Vocal)_Guilty_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "guilty kiss - shadow gate to love",
+      "artist": "Love Live!",
+      "has_synced": true,
+      "path": "select/05_guilty_kiss_-_shadow_gate_to_love_Love_Live!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shadow gate to love (Off Vocal)",
+      "artist": "Guilty Kiss (逢田梨香子, 小林愛香, 鈴木愛奈)",
+      "has_synced": true,
+      "path": "select/06_Shadow_gate_to_love_(Off_Vocal)_Guilty_Kiss_(逢田梨香子,_小林愛香,_鈴木愛奈).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shadow gate to love",
+      "artist": "Guilty Kiss",
+      "has_synced": false,
+      "path": "select/pl_01_Shadow_gate_to_love_Guilty_Kiss.txt"
+    }
+  ]
+}
